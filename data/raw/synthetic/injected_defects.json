@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "clean_rows_before_defects": 178561,
+  "missing_customer_id": 714,
+  "missing_unit_price": 357,
+  "bad_dates": 178,
+  "negative_quantity": 178,
+  "price_outliers_x10": 267,
+  "payment_method_case_issues": 8928,
+  "orphan_customer_ids": 535,
+  "exact_duplicate_rows": 535,
+  "final_rows": 179096
+}
