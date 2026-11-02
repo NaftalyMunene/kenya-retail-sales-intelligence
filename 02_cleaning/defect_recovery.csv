@@ -1,0 +1,9 @@
+defect,injected_by_generator,found_by_pipeline,difference
+exact_duplicate_rows,535,535,0
+bad_dates,178,178,0
+payment_method_case_issues,8928,8918,-10
+negative_quantity,178,177,-1
+price_outliers_x10,267,265,-2
+missing_unit_price,357,356,-1
+missing_customer_id,714,712,-2
+orphan_customer_ids,535,535,0

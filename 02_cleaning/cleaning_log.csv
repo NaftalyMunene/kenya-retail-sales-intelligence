@@ -1,0 +1,20 @@
+step,rows_before,rows_after,rows_removed,note
+0 raw load,179096,179096,0,starting point
+1 remove exact duplicate rows,179096,178561,535,535 removed
+2 remove duplicate transaction IDs,178561,178561,0,0 removed (kept first)
+3 drop rows missing key fields,178561,178561,0,0 removed
+"4a parse dates, drop invalid",178561,178383,178,178 unparseable dates
+4b numeric columns converted,178383,178383,0,"quantity, unit_price_kes, discount_kes"
+5 standardise payment_method text,178383,178383,0,8918 values re-cased
+6 store and product IDs exist,178383,178383,0,0 removed
+7 dates inside 2024-01-01 to 2025-12-31,178383,178383,0,0 removed
+"8 fix negative quantity, drop zero",178383,178383,0,"177 sign-corrected (assumed entry error, no return flag exists), 0 dropped"
+9a flag price outliers (ratio to product median),178383,178383,0,265 flagged and blanked for imputation
+9b impute missing or outlier prices,178383,178383,0,621 imputed from product-month median
+10 discount between 0 and gross value,178383,178383,0,0 reset to 0
+11a customers: duplicate IDs removed,3000,3000,0,0 removed
+11b customer IDs checked against customers,178383,178383,0,712 missing + 535 orphan kept as anonymous sales (customer_known=False)
+"12 flag quantity outliers (IQR, per category)",178383,178383,0,"265 flagged, kept: large baskets are plausible"
+13a calendar and holiday features,178383,178383,0,6703 rows on public holidays
+13c customer RFM table,2973,2973,0,one row per known customer
+14 final clean sales saved,179096,178383,713,"713 rows in rejected_rows.csv, each with a reason"

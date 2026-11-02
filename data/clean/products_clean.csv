@@ -1,0 +1,61 @@
+product_id,product_name,category,base_price_kes
+GRO001,Groceries item 1,Groceries,490.0
+GRO002,Groceries item 2,Groceries,195.0
+GRO003,Groceries item 3,Groceries,615.0
+GRO004,Groceries item 4,Groceries,395.0
+GRO005,Groceries item 5,Groceries,75.0
+GRO006,Groceries item 6,Groceries,845.0
+GRO007,Groceries item 7,Groceries,470.0
+GRO008,Groceries item 8,Groceries,505.0
+GRO009,Groceries item 9,Groceries,85.0
+GRO010,Groceries item 10,Groceries,205.0
+GRO011,Groceries item 11,Groceries,165.0
+GRO012,Groceries item 12,Groceries,740.0
+GRO013,Groceries item 13,Groceries,345.0
+GRO014,Groceries item 14,Groceries,555.0
+GRO015,Groceries item 15,Groceries,200.0
+GRO016,Groceries item 16,Groceries,110.0
+GRO017,Groceries item 17,Groceries,270.0
+GRO018,Groceries item 18,Groceries,70.0
+BEV001,Beverages item 1,Beverages,270.0
+BEV002,Beverages item 2,Beverages,170.0
+BEV003,Beverages item 3,Beverages,230.0
+BEV004,Beverages item 4,Beverages,90.0
+BEV005,Beverages item 5,Beverages,375.0
+BEV006,Beverages item 6,Beverages,315.0
+BEV007,Beverages item 7,Beverages,240.0
+BEV008,Beverages item 8,Beverages,65.0
+BEV009,Beverages item 9,Beverages,115.0
+BEV010,Beverages item 10,Beverages,45.0
+HOU001,Household item 1,Household,175.0
+HOU002,Household item 2,Household,675.0
+HOU003,Household item 3,Household,785.0
+HOU004,Household item 4,Household,1380.0
+HOU005,Household item 5,Household,275.0
+HOU006,Household item 6,Household,305.0
+HOU007,Household item 7,Household,395.0
+HOU008,Household item 8,Household,195.0
+HOU009,Household item 9,Household,165.0
+HOU010,Household item 10,Household,400.0
+PER001,Personal Care item 1,Personal Care,175.0
+PER002,Personal Care item 2,Personal Care,530.0
+PER003,Personal Care item 3,Personal Care,295.0
+PER004,Personal Care item 4,Personal Care,790.0
+PER005,Personal Care item 5,Personal Care,570.0
+PER006,Personal Care item 6,Personal Care,215.0
+PER007,Personal Care item 7,Personal Care,790.0
+PER008,Personal Care item 8,Personal Care,740.0
+ELE001,Electronics item 1,Electronics,3035.0
+ELE002,Electronics item 2,Electronics,2160.0
+ELE003,Electronics item 3,Electronics,8380.0
+ELE004,Electronics item 4,Electronics,1295.0
+ELE005,Electronics item 5,Electronics,1590.0
+ELE006,Electronics item 6,Electronics,820.0
+CLO001,Clothing item 1,Clothing,2685.0
+CLO002,Clothing item 2,Clothing,2000.0
+CLO003,Clothing item 3,Clothing,2205.0
+CLO004,Clothing item 4,Clothing,2645.0
+CLO005,Clothing item 5,Clothing,1215.0
+CLO006,Clothing item 6,Clothing,1585.0
+CLO007,Clothing item 7,Clothing,560.0
+CLO008,Clothing item 8,Clothing,530.0
