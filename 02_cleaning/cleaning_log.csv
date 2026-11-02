@@ -16,5 +16,6 @@ step,rows_before,rows_after,rows_removed,note
 11b customer IDs checked against customers,178383,178383,0,712 missing + 535 orphan kept as anonymous sales (customer_known=False)
 "12 flag quantity outliers (IQR, per category)",178383,178383,0,"265 flagged, kept: large baskets are plausible"
 13a calendar and holiday features,178383,178383,0,6703 rows on public holidays
+13b CPI join and real revenue,178383,178383,0,real_revenue_kes added
 13c customer RFM table,2973,2973,0,one row per known customer
 14 final clean sales saved,179096,178383,713,"713 rows in rejected_rows.csv, each with a reason"
