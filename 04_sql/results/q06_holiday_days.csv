@@ -1,0 +1,25 @@
+date,holiday_name,txns,baseline_txns,uplift_pct
+2024-01-01,New Year,182,201.0,-9.5
+2024-03-29,Good Friday,201,240.0,-16.2
+2024-04-01,Easter Monday,279,226.0,23.5
+2024-04-10,Idd-ul-Fitr,284,205.1,38.5
+2024-05-01,Labour Day,229,240.2,-4.6
+2024-06-01,Madaraka Day,320,309.3,3.4
+2024-10-10,Mazingira Day,218,209.0,4.3
+2024-10-20,Mashujaa Day,286,264.4,8.2
+2024-10-21,Mashujaa Day (observed),210,209.0,0.5
+2024-12-12,Jamhuri Day,306,271.2,12.8
+2024-12-25,Christmas,455,322.3,41.2
+2024-12-26,Boxing Day,292,322.3,-9.4
+2025-01-01,New Year,189,214.0,-11.7
+2025-03-31,Idd-ul-Fitr,317,258.0,22.9
+2025-04-18,Good Friday,156,211.7,-26.3
+2025-04-21,Easter Monday,238,211.7,12.4
+2025-05-01,Labour Day,218,257.7,-15.4
+2025-06-01,Madaraka Day,374,308.0,21.4
+2025-06-02,Madaraka Day (observed),298,257.5,15.7
+2025-10-10,Mazingira Day,223,220.3,1.2
+2025-10-20,Mashujaa Day,253,220.3,14.9
+2025-12-12,Jamhuri Day,329,281.0,17.1
+2025-12-25,Christmas,537,333.6,61.0
+2025-12-26,Boxing Day,309,333.6,-7.4

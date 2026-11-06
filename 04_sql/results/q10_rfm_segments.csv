@@ -1,0 +1,5 @@
+segment,customers,customer_share_pct,revenue_kes,revenue_share_pct,avg_purchase_lines,avg_recency_days
+Champions,1085,36.5,110189016.0,67.7,109.0,3.0
+At risk,401,13.5,26043398.0,16.0,71.0,16.0
+Low value or lapsed,1086,36.5,16843310.0,10.4,18.0,74.0
+New or developing,401,13.5,9603521.0,5.9,27.0,4.0

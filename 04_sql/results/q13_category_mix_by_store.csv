@@ -1,0 +1,49 @@
+store_name,category,revenue_kes,share_of_store_pct
+Eldoret Town,Groceries,7845327.0,54.4
+Eldoret Town,Clothing,1746252.0,12.1
+Eldoret Town,Beverages,1542577.0,10.7
+Eldoret Town,Household,1390614.0,9.6
+Eldoret Town,Personal Care,963213.0,6.7
+Eldoret Town,Electronics,934980.0,6.5
+Kisumu Central,Groceries,7800984.0,53.0
+Kisumu Central,Clothing,1646825.0,11.2
+Kisumu Central,Beverages,1597073.0,10.8
+Kisumu Central,Household,1436846.0,9.8
+Kisumu Central,Electronics,1206709.0,8.2
+Kisumu Central,Personal Care,1032975.0,7.0
+Mombasa Nyali,Groceries,11472513.0,53.1
+Mombasa Nyali,Clothing,2538170.0,11.7
+Mombasa Nyali,Beverages,2354723.0,10.9
+Mombasa Nyali,Household,2083675.0,9.6
+Mombasa Nyali,Electronics,1603070.0,7.4
+Mombasa Nyali,Personal Care,1569692.0,7.3
+Nairobi CBD,Groceries,15676962.0,54.7
+Nairobi CBD,Clothing,3134570.0,10.9
+Nairobi CBD,Beverages,3078059.0,10.7
+Nairobi CBD,Household,2868275.0,10.0
+Nairobi CBD,Personal Care,1959404.0,6.8
+Nairobi CBD,Electronics,1929977.0,6.7
+Nakuru Town,Groceries,9766971.0,54.5
+Nakuru Town,Beverages,2006567.0,11.2
+Nakuru Town,Clothing,1930486.0,10.8
+Nakuru Town,Household,1697555.0,9.5
+Nakuru Town,Electronics,1340544.0,7.5
+Nakuru Town,Personal Care,1166867.0,6.5
+Nyeri Town,Groceries,5651992.0,53.0
+Nyeri Town,Clothing,1201291.0,11.3
+Nyeri Town,Beverages,1195090.0,11.2
+Nyeri Town,Household,1065249.0,10.0
+Nyeri Town,Personal Care,773835.0,7.3
+Nyeri Town,Electronics,773434.0,7.3
+Thika Road,Groceries,17465969.0,53.9
+Thika Road,Clothing,3810302.0,11.8
+Thika Road,Beverages,3556167.0,11.0
+Thika Road,Household,3001806.0,9.3
+Thika Road,Electronics,2395548.0,7.4
+Thika Road,Personal Care,2154998.0,6.7
+Westlands,Groceries,12437843.0,53.1
+Westlands,Clothing,2736505.0,11.7
+Westlands,Beverages,2581665.0,11.0
+Westlands,Household,2289151.0,9.8
+Westlands,Electronics,1760639.0,7.5
+Westlands,Personal Care,1609179.0,6.9

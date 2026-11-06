@@ -1,0 +1,19 @@
+category,rank_in_category,product_id,product_name,revenue_kes,units
+Beverages,1,BEV005,Beverages item 5,3524789.0,9224
+Beverages,2,BEV006,Beverages item 6,2923129.0,9087
+Beverages,3,BEV001,Beverages item 1,2520823.0,9158
+Clothing,1,CLO004,Clothing item 4,3746589.0,1392
+Clothing,2,CLO001,Clothing item 1,3673135.0,1340
+Clothing,3,CLO003,Clothing item 3,3152090.0,1402
+Electronics,1,ELE003,Electronics item 3,5716294.0,663
+Electronics,2,ELE001,Electronics item 1,2154986.0,693
+Electronics,3,ELE002,Electronics item 2,1616787.0,733
+Groceries,1,GRO006,Groceries item 6,11972538.0,13878
+Groceries,2,GRO012,Groceries item 12,10319874.0,13641
+Groceries,3,GRO003,Groceries item 3,8655495.0,13795
+Household,1,HOU004,Household item 4,4589715.0,3253
+Household,2,HOU003,Household item 3,2637175.0,3284
+Household,3,HOU002,Household item 2,2288666.0,3320
+Personal Care,1,PER004,Personal Care item 4,2191281.0,2718
+Personal Care,2,PER007,Personal Care item 7,2121674.0,2636
+Personal Care,3,PER008,Personal Care item 8,2036041.0,2701

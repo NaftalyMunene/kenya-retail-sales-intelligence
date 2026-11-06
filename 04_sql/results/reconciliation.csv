@@ -1,0 +1,13 @@
+check,sql_value,pandas_value,tolerance,status
+sales lines,178383.0,178383.0,0.0,PASS
+distinct transactions,178383.0,178383.0,0.0,PASS
+total revenue KES,163783111.5,163783111.5,1.0,PASS
+total real revenue KES,114750884.54,114750884.54,1.0,PASS
+known customers,2973.0,2973.0,0.0,PASS
+top category revenue,88118559.0,88118559.0,1.0,PASS
+top category name matches,1.0,1.0,0.0,PASS
+Dec 2025 yoy nominal growth pct,8.5,8.5,0.1,PASS
+Electronics nominal growth pct,17.6,17.6,0.1,PASS
+holiday days observed,24.0,24.0,0.0,PASS
+top 10% customers revenue share pct,35.3,35.3,0.5,PASS
+customers scored in RFM,2973.0,2973.0,0.0,PASS

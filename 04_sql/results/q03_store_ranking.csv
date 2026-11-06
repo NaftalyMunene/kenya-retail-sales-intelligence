@@ -1,0 +1,9 @@
+revenue_rank,store_name,format,county,revenue_kes,revenue_share_pct,avg_line_value_kes
+1,Thika Road,Hypermarket,Kiambu,32384789.0,19.8,920.0
+2,Nairobi CBD,Supermarket,Nairobi,28647246.0,17.5,916.0
+3,Westlands,Supermarket,Nairobi,23414982.0,14.3,911.0
+4,Mombasa Nyali,Supermarket,Mombasa,21621843.0,13.2,925.0
+5,Nakuru Town,Supermarket,Nakuru,17908990.0,10.9,917.0
+6,Kisumu Central,Mini-mart,Kisumu,14721411.0,9.0,932.0
+7,Eldoret Town,Mini-mart,Uasin Gishu,14422962.0,8.8,913.0
+8,Nyeri Town,Mini-mart,Nyeri,10660890.0,6.5,911.0
